@@ -5,6 +5,7 @@ source code
 - many bypasses
 - BAD BADPACKETS
 - LAG? = Banned
+- BAD SUPPORT
 > SOME screenshot for this shit
 [![#1](https://cdn.discordapp.com/attachments/996558083008508014/1077022731352166521/image.png)
 >
