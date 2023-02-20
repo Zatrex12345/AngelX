@@ -1,6 +1,6 @@
 name: AngelX
 main: me.xtasy.anticheat.AngelX
-version: 1.0.36
+version: 2.0
 description: AngelX AntiCheat
 depend: [ProtocolLib]
 commands:
