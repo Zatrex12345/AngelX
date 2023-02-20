@@ -12,3 +12,13 @@ source code
 > SAVE YOUR MONEY !!
 > 
 [![#2](https://cdn.discordapp.com/attachments/996558083008508014/1077210870842675261/image.png)
+>
+> IP 
+- IP HOST LicenseKey : 51.83.70.11:8880
+- URL LicenseKey : http://51.83.70.11:8880/AdvancedLicense/
+- Ports
+[![#3](https://cdn.discordapp.com/attachments/996558083008508014/1077215411734585414/image.png)
+>
+- Port : 4000/tcp remoteanything
+- Hmm : https://www.speedguide.net/port.php?port=4000
+
