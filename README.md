@@ -16,6 +16,7 @@ source code
 > IP 
 - IP HOST LicenseKey : 51.83.70.11:8880
 - URL LicenseKey : http://51.83.70.11:8880/AdvancedLicense/
+- SecurityKey : jJ6giJGAEhLCgij30lKga9tXX
 - Ports
 [![#3](https://cdn.discordapp.com/attachments/996558083008508014/1077215411734585414/image.png)
 >
