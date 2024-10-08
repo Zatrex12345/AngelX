@@ -1,6 +1,6 @@
 # Angelx
 source code
-> AngelX AntiLegit (Best Shit solution for your server) [1.8-1.17] 
+> AngelX AntiLegit (Shit solution for your server) [1.8-1.17] 
 - make sure about falses
 - many bypasses
 - BAD BADPACKETS
